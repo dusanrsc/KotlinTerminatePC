@@ -1,4 +1,4 @@
-# Shutdown Your PC With This Tiny Kotlin Program!
+# Shutdown Your Windows Powered PC With This Tiny Kotlin Program!
 
 <div style="container" align="center">
   <h1>TECHNOLOGIES:</h1>
