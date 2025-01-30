@@ -5,6 +5,6 @@ fun main() {
         val process = ProcessBuilder("cmd", "/c", "shutdown -s -t 0")
         process.start()
     } catch (e: IOException) {
-        println("Greška prilikom izvršavanja komande: ${e.message}")
+        println("Error While Executing Command: ${e.message}")
     }
 }
