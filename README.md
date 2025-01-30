@@ -1,7 +1,7 @@
 <div style="container" align="center">
-  <br><br>
+  <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="80%" />
 </div>
-<br><br>
+<br>
 
 # Shutdown Your Windows Powered PC With This Tiny Kotlin Program!
