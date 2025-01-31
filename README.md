@@ -4,4 +4,4 @@
 </div>
 <br>
 
-# Shutdown Your Windows Powered PC With This Tiny Kotlin Program!
+# Shutdown Your Windows Powered PC.
